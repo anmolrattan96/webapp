@@ -5,6 +5,7 @@ import org.junit.Test;
 
 public class ExampleTest {
 	@Test
+	@Kaaki
 	public void exampleTest() {
 		Assert.assertTrue(true);
 	}
